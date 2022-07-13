@@ -1,19 +1,21 @@
-# Getting Started with Create React App
+## Live Version of the Application
+
+[Calculator Application](http://medina-pj.github.io/calculator-application)
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+```bash
+# install all dependecies
+$ npm install
+```
 
-### `npm start`
+## Running the app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-## Live Version of the Application
-
-[Calculator Application](http://medina-pj.github.io/calculator-application).
+```bash
+# run the application in development mode
+$ npm start
+```
